@@ -23,7 +23,7 @@ kv_sku_name = "standard"
 
 redis_hostname_secret_name    = "redis-hostname"
 redis_primary_key_secret_name = "redis-primary-key"
-context_access_token          = "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"
+context_access_token          = ""
 
 redis_family   = "C"
 redis_capacity = 2
