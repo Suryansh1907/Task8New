@@ -1,4 +1,4 @@
-location = "southindia"
+location = "centralus"
 
 name_prefix = "cmtr-eh8dj90z-mod8"
 
@@ -23,7 +23,7 @@ kv_sku_name = "standard"
 
 redis_hostname_secret_name    = "redis-hostname"
 redis_primary_key_secret_name = "redis-primary-key"
-context_access_token          = 
+context_access_token          = "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"
 
 redis_family   = "C"
 redis_capacity = 2
